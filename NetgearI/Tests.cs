@@ -60,16 +60,8 @@ namespace NetgearI
 			app.Tap("scan_qr_code");
 			app.Screenshot("We Tapped 'Through QR Code'");
 
-
-
-
-
-
-
-
-
-
-
+			app.Tap("scan_qr_code");
+			app.Screenshot("Then we Tapped 'Scan QR Code'");
 		}
 
 	}
