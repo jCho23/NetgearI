@@ -45,8 +45,10 @@ namespace NetgearI
 			app.Screenshot("Dismissed Keyboard");
 
 			app.Tap("login_password");
+			app.Screenshot("We Tapped on the 'Password' Login Text Field");
 
 			app.EnterText("Xamarin123");
+			app.Screenshot("Next we entered in our password, 'Xamarin123'");
 
 			app.DismissKeyboard();
 			app.Screenshot("Dismissed Keyboard");
