@@ -33,7 +33,7 @@ namespace NetgearI
 		}
 
 		[Test]
-		public void FirstTest()
+		public void ScanQRCodeTest()
 		{
 			#region LoginTests
 			app.Tap("main_login_netgear");
