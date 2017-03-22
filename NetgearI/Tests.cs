@@ -39,6 +39,7 @@ namespace NetgearI
 			app.Screenshot("Let's start by Tapping on the 'Sign In' Button");
 
 			app.Tap("login_username");
+			app.Screenshot("Then we Tapped on the 'Username' Text Field");
 
 			app.EnterText("breckwight@gmail.com");
 
