@@ -57,6 +57,7 @@ namespace NetgearI
 			app.Tap("ap_image");
 			app.Screenshot("Next we Tapped on 'Access Point'");
 
+			app.Tap("scan_qr_code");
 
 
 
