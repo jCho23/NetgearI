@@ -36,6 +36,7 @@ namespace NetgearI
 		public void FirstTest()
 		{
 			app.Tap("main_login_netgear");
+			app.Screenshot("Let's start by Tapping on the 'Sign In' Button");
 
 			app.Tap("login_username");
 
