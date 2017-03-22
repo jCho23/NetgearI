@@ -1,0 +1,7 @@
+/Users/junecho/Projects/NetgearI/NetgearI/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/junecho/Projects/NetgearI/NetgearI/bin/Debug/NetgearI.dll.mdb
+/Users/junecho/Projects/NetgearI/NetgearI/bin/Debug/NetgearI.dll
+/Users/junecho/Projects/NetgearI/NetgearI/obj/Debug/NetgearI.dll
+/Users/junecho/Projects/NetgearI/NetgearI/obj/Debug/NetgearI.dll.mdb
+/Users/junecho/Projects/NetgearI/NetgearI/bin/Debug/nunit.framework.dll
+/Users/junecho/Projects/NetgearI/NetgearI/bin/Debug/Xamarin.UITest.dll
