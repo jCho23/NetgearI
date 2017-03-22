@@ -42,6 +42,7 @@ namespace NetgearI
 			app.Screenshot("Then we Tapped on the 'Username' Text Field");
 
 			app.EnterText("breckwight@gmail.com");
+			app.Screenshot("Next we entered our e-mail, 'breckwight@gmail.com'");
 
 			app.DismissKeyboard();
 			app.Screenshot("Dismissed Keyboard");
