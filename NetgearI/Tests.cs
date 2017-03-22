@@ -54,7 +54,7 @@ namespace NetgearI
 			app.Screenshot("Then we Tapped on the 'Login Button'");
 			#endregion
 
-
+			#region ScanQRCodeTest
 			app.Tap("add_new");
 			app.Screenshot("Then we Tapped on 'Set Up New Devices'");
 
@@ -66,6 +66,7 @@ namespace NetgearI
 
 			app.Tap("scan_qr_code");
 			app.Screenshot("Then we Tapped 'Scan QR Code'");
+			#endregion
 		}
 
 	}
