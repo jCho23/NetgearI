@@ -31,6 +31,11 @@ namespace NetgearI
 			app.Repl();
 		}
 
+		[Test]
+		public void FirstTest()
+		{
+
+		}
 
 	}
 }
