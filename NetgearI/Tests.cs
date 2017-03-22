@@ -42,14 +42,16 @@ namespace NetgearI
 			app.EnterText("breckwight@gmail.com");
 
 			app.DismissKeyboard();
+			app.Screenshot("Dismissed Keyboard");
 
 			app.Tap("login_password");
 
 			app.EnterText("Xamarin123");
 
 			app.DismissKeyboard();
-
+			app.Screenshot("Dismissed Keyboard");
 			app.Tap("login");
+			app.Screenshot("Then we Tapped on the 'Login Button'");
 
 
 			app.Tap("add_new");
