@@ -38,6 +38,26 @@ namespace NetgearI
 
 			app.Tap("login_username");
 
+			app.EnterText("breckwight@gmail.com");
+
+			app.DismissKeyboard();
+
+			app.Tap("login_password");
+
+			app.EnterText("Xamarin123");
+
+			app.DismissKeyboard();
+
+			app.Tap("login");
+
+
+
+
+
+
+
+
+
 
 		}
 
