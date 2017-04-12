@@ -1,9 +1,24 @@
 ﻿<Properties StartupConfiguration="{FA98B393-EE92-4BAE-A1E6-2D9713178F05}|Unit Tests">
   <MonoDevelop.Ide.Workbench ActiveDocument="NetgearI/AppInitializer.cs">
     <Files>
-      <File FileName="NetgearI/Tests.cs" Line="1" Column="1" />
-      <File FileName="NetgearI/AppInitializer.cs" Line="1" Column="1" />
+      <File FileName="NetgearI/Tests.cs" Line="36" Column="31" />
+      <File FileName="NetgearI/AppInitializer.cs" Line="43" Column="1" />
     </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="NetgearI" expanded="True">
+            <Node name="NetgearI" expanded="True">
+              <Node name="NetgearI" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="Tests(Android)" expanded="True" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
